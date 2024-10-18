@@ -1,0 +1,16 @@
+{
+  "name": "sprunked",
+  "version": "1.0.1",
+  "description": "Sprunked.org: Play Sprunki Incredibox Mod Game Online",
+  "main": "index.js",
+  "bin": {
+    "sprunki-infected": "./index.js"
+  },
+  "keywords": [
+    "sprunked",
+    "sprunki",
+    "incredibox"
+  ],
+  "author": "sprunked",
+  "license": "MIT"
+}
