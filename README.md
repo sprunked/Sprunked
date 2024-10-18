@@ -10,7 +10,8 @@ Welcome to the official repository for [Sprunked.org](https://sprunked.org/), th
 - [Development](#development)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+- [Package](#package)
+- [Links](#links)
 
 ## About
 
@@ -66,6 +67,24 @@ This website is designed to be easily deployed on platforms like Vercel, Netlify
 For Vercel:
 1. Import your GitHub repository on Vercel
 2. Vercel will automatically detect the settings and deploy your site
+
+## Package
+
+### Install
+```
+$ npm install -g sprunked
+$ sprunked
+```
+
+### Npm Info
+sprunked: [https://www.npmjs.com/package/sprunked](https://www.npmjs.com/package/sprunked)
+
+
+## Links
+
+- Official Website: [https://sprunked.org](https://sprunked.org/)
+- Play Now: [Sprunked Incredibox](https://sprunked.org/)
+- Download:[Sprunked Game DownLoad](https://sprunked.org/download)
 
 ## Contributing
 
